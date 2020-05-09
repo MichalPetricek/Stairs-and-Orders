@@ -1,0 +1,10 @@
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\bin\Debug\netcoreapp2.1\Stairs.deps.json
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\bin\Debug\netcoreapp2.1\Stairs.runtimeconfig.json
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\bin\Debug\netcoreapp2.1\Stairs.runtimeconfig.dev.json
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\bin\Debug\netcoreapp2.1\Stairs.dll
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\bin\Debug\netcoreapp2.1\Stairs.pdb
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\obj\Debug\netcoreapp2.1\Stairs.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\obj\Debug\netcoreapp2.1\Stairs.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\obj\Debug\netcoreapp2.1\Stairs.AssemblyInfo.cs
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\obj\Debug\netcoreapp2.1\Stairs.dll
+C:\Users\micha\Desktop\stairs and orders\StairsAndOrder\Stairs\obj\Debug\netcoreapp2.1\Stairs.pdb

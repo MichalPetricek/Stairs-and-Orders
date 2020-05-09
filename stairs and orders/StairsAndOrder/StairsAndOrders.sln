@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stairs", "Stairs\Stairs.csproj", "{17B62DCC-DFC7-4996-9A94-95855B813EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csproj", "{FFA6F86B-2815-4A43-8361-A2E85162E941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B62DCC-DFC7-4996-9A94-95855B813EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B62DCC-DFC7-4996-9A94-95855B813EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B62DCC-DFC7-4996-9A94-95855B813EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B62DCC-DFC7-4996-9A94-95855B813EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA6F86B-2815-4A43-8361-A2E85162E941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA6F86B-2815-4A43-8361-A2E85162E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA6F86B-2815-4A43-8361-A2E85162E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA6F86B-2815-4A43-8361-A2E85162E941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B82522-BA63-4197-9787-60CAFFBCC5C9}
+	EndGlobalSection
+EndGlobal
